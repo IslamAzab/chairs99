@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample API, accepting csv file containing names and returning occurred more than once first names.
 
-Things you may want to cover:
+To make it work just:
 
-* Ruby version
+* Clone the repo
 
-* System dependencies
+* `bundle`
 
-* Configuration
+* create and migrate db
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* `rails s`
